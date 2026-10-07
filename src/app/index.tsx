@@ -158,7 +158,7 @@ const DARK = {
   text: "#ffffff",
   muted: "#9295a5",
   border: "#292b36",
-  red: "#F54927",
+  red: "#fa5759",
   redDark: "#d94346",
   green: "#35c98a",
   blue: "#4d9cff",
